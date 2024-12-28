@@ -2,5 +2,5 @@ statsmodels
 scikit-learn
 scipy
 numpy
-setuptools~=68.2.0
+setuptools>=68.2.0
 pandas
